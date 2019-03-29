@@ -1,0 +1,2 @@
+1#Franny#Boxer#f#4#40#false#false
+2#Izzy#Poodle#f#3#25#false#false
